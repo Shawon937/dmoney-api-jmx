@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1664985612304,199,Login,200,OK,Thread Group 1-1,text,true,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,198,0,98
+1664985612557,5402,Get user list,200,OK,Thread Group 1-1,text,true,,1809164,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,4899,0,0
+1664985618064,28,Create User,201,Created,Thread Group 1-1,text,true,,587,608,1,1,http://dmoney.professionaltrainingbd.com/user/create,28,0,0
+1664985618093,14,Create Duplicate User,208,Already Reported,Thread Group 1-1,text,true,,365,616,1,1,http://dmoney.professionaltrainingbd.com/user/create,14,0,0
+1664985618108,12,Search user by id,200,OK,Thread Group 1-1,text,true,,538,422,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=10168,12,0,0
+1664985618121,16,Search user by phone number,200,OK,Thread Group 1-1,text,true,,550,438,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01500980163,16,0,0
+1664985618138,10,Search user by email,200,OK,Thread Group 1-1,text,true,,538,439,1,1,http://dmoney.professionaltrainingbd.com/user/search?email=user980163@test.com,10,0,0
+1664985618149,12,Update the user Phone number ,200,OK,Thread Group 1-1,text,true,,381,479,1,1,http://dmoney.professionaltrainingbd.com/user/update/10168,12,0,0
+1664985618162,37,Delete the user,200,OK,Thread Group 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10168,36,0,0
+1664985618199,27,Create User by csv,201,Created,Thread Group 1-1,text,true,,578,599,1,1,http://dmoney.professionaltrainingbd.com/user/create,27,0,0
+1664985618227,22,Delete the user created by csv,200,OK,Thread Group 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10169,22,0,0

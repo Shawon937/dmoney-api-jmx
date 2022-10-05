@@ -1,0 +1,27 @@
+user2995,usery989@test.com,1234,01954333450,123456,Agent
+1664984503064,84,Login,200,OK,Thread Group 1-1,text,true,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,84,0,49
+1664984504114,5448,Get user list,200,OK,Thread Group 1-1,text,true,,1807224,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,4870,0,0
+1664984509663,5260,Get user list,200,OK,Thread Group 1-1,text,true,,1807224,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,4479,0,0
+1664984514961,13,Search user by id,200,OK,Thread Group 1-1,text,true,,567,419,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=90,13,0,0
+1664984514975,23,Create User,201,Created,Thread Group 1-1,text,true,,587,608,1,1,http://dmoney.professionaltrainingbd.com/user/create,23,0,0
+1664984514999,23,Create Duplicate User,208,Already Reported,Thread Group 1-1,text,true,,365,616,1,1,http://dmoney.professionaltrainingbd.com/user/create,23,0,0
+1664984515022,8,Search user by id,200,OK,Thread Group 1-1,text,true,,538,422,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=10145,8,0,0
+1664984515031,14,Search user by phone number,200,OK,Thread Group 1-1,text,true,,550,438,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01500127866,14,0,0
+1664984515046,15,Search user by email,200,OK,Thread Group 1-1,text,true,,538,439,1,1,http://dmoney.professionaltrainingbd.com/user/search?email=user127866@test.com,15,0,0
+1664984515062,11,Update the user Phone number ,200,OK,Thread Group 1-1,text,true,,381,479,1,1,http://dmoney.professionaltrainingbd.com/user/update/10145,11,0,0
+1664984515074,11,Delete the user,200,OK,Thread Group 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10145,11,0,0
+1664984515086,24,Create User by csv,201,Created,Thread Group 1-1,text,true,,578,599,1,1,http://dmoney.professionaltrainingbd.com/user/create,24,0,0
+1664984515111,11,Delete the user created by csv,200,OK,Thread Group 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10146,11,0,0
+1664984548089,72,Login,200,OK,Thread Group 1-1,text,true,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,72,0,41
+1664984548229,6044,Get user list,200,OK,Thread Group 1-1,text,true,,1807224,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,4613,0,0
+1664984554370,6358,Get user list,200,OK,Thread Group 1-1,text,true,,1807224,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,4215,0,0
+1664984560761,34,Search user by id,200,OK,Thread Group 1-1,text,true,,567,419,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=90,34,0,0
+1664984560795,27,Create User,201,Created,Thread Group 1-1,text,true,,587,608,1,1,http://dmoney.professionaltrainingbd.com/user/create,27,0,0
+1664984560824,16,Create Duplicate User,208,Already Reported,Thread Group 1-1,text,true,,365,616,1,1,http://dmoney.professionaltrainingbd.com/user/create,15,0,0
+1664984560840,9,Search user by id,200,OK,Thread Group 1-1,text,true,,538,422,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=10147,9,0,0
+1664984560850,23,Search user by phone number,200,OK,Thread Group 1-1,text,true,,550,438,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01500613484,23,0,0
+1664984560874,12,Search user by email,200,OK,Thread Group 1-1,text,true,,538,439,1,1,http://dmoney.professionaltrainingbd.com/user/search?email=user613484@test.com,12,0,0
+1664984560887,26,Update the user Phone number ,200,OK,Thread Group 1-1,text,true,,381,479,1,1,http://dmoney.professionaltrainingbd.com/user/update/10147,26,0,0
+1664984560914,22,Delete the user,200,OK,Thread Group 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10147,22,0,0
+1664984560937,27,Create User by csv,201,Created,Thread Group 1-1,text,true,,578,599,1,1,http://dmoney.professionaltrainingbd.com/user/create,27,0,0
+1664984560965,12,Delete the user created by csv,200,OK,Thread Group 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10148,12,0,0
